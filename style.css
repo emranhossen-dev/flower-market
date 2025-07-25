@@ -483,6 +483,12 @@
     .content3 h5{
         font-size: 1rem;
         text-align: center;
+        color: white;
+    }
+
+    .content3 a{
+        font-size: 0.8rem;
+        color: white;
     }
 
     .bloom-img img, .ana-img img, .zabo-img img{
